@@ -1,4 +1,4 @@
-# ⚡ Refactr
+# ⚡ CodeRefactor
 
 Refactr is a modern web app that analyzes and refactors code using Google’s Gemini API. Just paste your code, get instant feedback, and see a cleaner version ready to use — all inside a slick, editor-like UI.
 
